@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viveca24
 - 👀 I’m interested in coding, design, music and netflix.
 - 🌱 I’m currently learning javascript and bootstrap
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: viveca2412@gmail.com
 
 <!---
